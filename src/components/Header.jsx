@@ -9,7 +9,7 @@ export default function Header() {
             <i className="fas fa-bars"></i>
           </div>
           <div className="tube-logo">
-            <img src="assets/youtube.webp" alt="" /> Youtube <sup>BD</sup>
+            <img src="assets/youtube.webp" alt="" /> Youtube <sup>IN</sup>
           </div>
         </div>
         <div className="tube-search-account">
